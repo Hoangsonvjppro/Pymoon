@@ -1,0 +1,1 @@
+thetich = lambda s, h : s * h

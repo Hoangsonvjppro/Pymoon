@@ -3,8 +3,8 @@
 #2.In ra danh sách sinh viên
 #3.Tìm kiếm sinh viên theo mã
 #4.In ra top 3 sinh viên có gpa cao nhất
-from ObjectOrianted.Student_Management import Students
-from ObjectOrianted.Student import Student
+from ObjectOrianted.task1.Student_Management import Students
+from ObjectOrianted.task1.Student import Student
 
 if __name__ == '__main__':
     student_list = Students()
